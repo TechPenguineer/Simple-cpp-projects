@@ -2,3 +2,8 @@
 NumberGuessingGame/NumberGuessingGame.sln
 NumberGuessingGame/NumberGuessingGame.vcxproj.filters
 NumberGuessingGame/.vs/NumberGuessingGame/v16/Browse.VC.opendb
+/NumberGuessingGame/.vs
+/NumberGuessingGame/obj
+/NumberGuessingGame/NumberGuessingGame.sln
+/NumberGuessingGame/NumberGuessingGame.vcxproj
+/NumberGuessingGame/NumberGuessingGame.vcxproj.user
